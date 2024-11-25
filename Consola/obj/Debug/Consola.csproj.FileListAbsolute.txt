@@ -1,0 +1,12 @@
+C:\Users\Filip\source\repos\Seminarski\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\Seminarski\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Seminarski\Consola\bin\Debug\Consola.exe.config
+C:\Users\Filip\source\repos\Seminarski\Consola\bin\Debug\Consola.exe
+C:\Users\Filip\source\repos\Seminarski\Consola\bin\Debug\Consola.pdb
+C:\Users\Filip\source\repos\Seminarski\Consola\bin\Debug\Domain.dll
+C:\Users\Filip\source\repos\Seminarski\Consola\bin\Debug\Domain.pdb
+C:\Users\Filip\source\repos\Seminarski\Consola\obj\Debug\Consola.csproj.CopyComplete
+C:\Users\Filip\source\repos\Seminarski\Consola\obj\Debug\Consola.exe
+C:\Users\Filip\source\repos\Seminarski\Consola\obj\Debug\Consola.pdb
+C:\Users\Filip\source\repos\Seminarski\Consola\bin\Debug\Databasepom.dll
+C:\Users\Filip\source\repos\Seminarski\Consola\bin\Debug\Databasepom.pdb

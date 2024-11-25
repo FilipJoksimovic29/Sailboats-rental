@@ -1,0 +1,6 @@
+C:\Users\Filip\source\repos\Seminarski\Domain\Domain\bin\Debug\Common.dll
+C:\Users\Filip\source\repos\Seminarski\Domain\Domain\bin\Debug\Common.pdb
+C:\Users\Filip\source\repos\Seminarski\Domain\Domain\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\Seminarski\Domain\Domain\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Seminarski\Domain\Domain\obj\Debug\Common.dll
+C:\Users\Filip\source\repos\Seminarski\Domain\Domain\obj\Debug\Common.pdb

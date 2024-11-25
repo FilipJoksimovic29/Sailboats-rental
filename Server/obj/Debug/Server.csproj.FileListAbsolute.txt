@@ -1,0 +1,15 @@
+C:\Users\Filip\source\repos\Seminarski\Server\bin\Debug\Server.exe.config
+C:\Users\Filip\source\repos\Seminarski\Server\bin\Debug\Server.exe
+C:\Users\Filip\source\repos\Seminarski\Server\bin\Debug\Server.pdb
+C:\Users\Filip\source\repos\Seminarski\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\Seminarski\Server\obj\Debug\Server.Properties.Resources.resources
+C:\Users\Filip\source\repos\Seminarski\Server\obj\Debug\Server.ServerFrm.resources
+C:\Users\Filip\source\repos\Seminarski\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\Filip\source\repos\Seminarski\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Seminarski\Server\obj\Debug\Server.exe
+C:\Users\Filip\source\repos\Seminarski\Server\obj\Debug\Server.pdb
+C:\Users\Filip\source\repos\Seminarski\Server\obj\Debug\Server.csproj.CopyComplete
+C:\Users\Filip\source\repos\Seminarski\Server\bin\Debug\BrokerBaze.dll
+C:\Users\Filip\source\repos\Seminarski\Server\bin\Debug\Common.dll
+C:\Users\Filip\source\repos\Seminarski\Server\bin\Debug\BrokerBaze.pdb
+C:\Users\Filip\source\repos\Seminarski\Server\bin\Debug\Common.pdb

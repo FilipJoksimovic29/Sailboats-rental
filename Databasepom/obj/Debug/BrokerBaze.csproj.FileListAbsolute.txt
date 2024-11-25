@@ -1,0 +1,9 @@
+C:\Users\Filip\source\repos\Seminarski\Databasepom\obj\Debug\BrokerBaze.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\Seminarski\Databasepom\obj\Debug\BrokerBaze.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Seminarski\Databasepom\obj\Debug\BrokerBaze.csproj.CopyComplete
+C:\Users\Filip\source\repos\Seminarski\Databasepom\bin\Debug\BrokerBaze.dll
+C:\Users\Filip\source\repos\Seminarski\Databasepom\bin\Debug\BrokerBaze.pdb
+C:\Users\Filip\source\repos\Seminarski\Databasepom\bin\Debug\Common.dll
+C:\Users\Filip\source\repos\Seminarski\Databasepom\bin\Debug\Common.pdb
+C:\Users\Filip\source\repos\Seminarski\Databasepom\obj\Debug\BrokerBaze.dll
+C:\Users\Filip\source\repos\Seminarski\Databasepom\obj\Debug\BrokerBaze.pdb

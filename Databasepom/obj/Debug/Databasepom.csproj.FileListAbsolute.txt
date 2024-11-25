@@ -1,0 +1,9 @@
+C:\Users\Filip\source\repos\Seminarski\Databasepom\bin\Debug\Databasepom.dll
+C:\Users\Filip\source\repos\Seminarski\Databasepom\bin\Debug\Databasepom.pdb
+C:\Users\Filip\source\repos\Seminarski\Databasepom\bin\Debug\Domain.dll
+C:\Users\Filip\source\repos\Seminarski\Databasepom\bin\Debug\Domain.pdb
+C:\Users\Filip\source\repos\Seminarski\Databasepom\obj\Debug\Databasepom.csproj.AssemblyReference.cache
+C:\Users\Filip\source\repos\Seminarski\Databasepom\obj\Debug\Databasepom.csproj.CoreCompileInputs.cache
+C:\Users\Filip\source\repos\Seminarski\Databasepom\obj\Debug\Databasepom.csproj.CopyComplete
+C:\Users\Filip\source\repos\Seminarski\Databasepom\obj\Debug\Databasepom.dll
+C:\Users\Filip\source\repos\Seminarski\Databasepom\obj\Debug\Databasepom.pdb
